@@ -4,7 +4,7 @@
 
     <groupId>com.jcalvopina</groupId>
     <artifactId>call-center</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>call-center</name>
@@ -15,7 +15,7 @@
         <java.version>1.8</java.version>
         <maven-compiler-plugin.version>3.5.1</maven-compiler-plugin.version>
         <junit.version>4.12</junit.version>
-        <log4j-api.version>2.8.2</log4j-api.version>
+        <log4j-api.version>2.13.3</log4j-api.version>
     </properties>
 
     <dependencies>
